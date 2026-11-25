@@ -16,6 +16,7 @@ class Calculator:
         self.memory = 0
 
     def sum(self, a, b=None):
+       return 0
         """
         Returns sum of two numeric values
 
